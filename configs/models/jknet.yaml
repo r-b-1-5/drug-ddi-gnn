@@ -1,0 +1,7 @@
+model: jknet
+hidden_features: 64
+out_features: 32
+jk_layers: 4
+jk_mode: cat
+dropout: 0.2
+predictor: dot

@@ -1,0 +1,7 @@
+# For relational graphs only; requires meaningful integer edge relation IDs.
+model: rgcn
+hidden_features: 64
+out_features: 32
+num_relations: null
+num_bases: null
+dropout: 0.2

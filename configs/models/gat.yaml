@@ -1,0 +1,6 @@
+model: gat
+hidden_features: 64
+out_features: 32
+gat_heads: 4
+dropout: 0.2
+predictor: dot

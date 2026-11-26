@@ -1,0 +1,6 @@
+model: graphsage
+hidden_features: 64
+out_features: 32
+sage_aggregator: mean
+dropout: 0.2
+predictor: dot

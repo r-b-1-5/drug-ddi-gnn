@@ -1,0 +1,7 @@
+# Baseline configuration for the binary DDI link-prediction task.
+# The current scripts expose these values as command-line arguments.
+seed: 42
+validation_fraction: 0.10
+test_fraction: 0.20
+negative_ratio: 1.0
+invalid_smiles_policy: zeros
