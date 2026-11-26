@@ -320,9 +320,3 @@ Data, splitting and metrics tests run without DGL. DGL-dependent model forward
 checks are skipped automatically when DGL is not installed. For a complete
 verification, run the suite in the pinned DGL/PyTorch environment.
 
-## Upstream references and attribution
-
-This project is a refactor/reimplementation informed by the original DDI
-repository, PanEcho's package organization, and the GNN references listed in
-[`docs/UPSTREAMS.md`](docs/UPSTREAMS.md). Consult upstream project licenses and
-dataset terms before redistribution or publication.
